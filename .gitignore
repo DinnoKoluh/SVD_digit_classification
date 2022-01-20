@@ -1,0 +1,9 @@
+*venv
+*.vscode
+definition.pdf
+mnist_main.ipynb
+window.ipynb
+SVD_classification_MNIST.pdf
+**/functions/mnist_funs.py
+**/functions/__pycache__/
+data/old_data/
