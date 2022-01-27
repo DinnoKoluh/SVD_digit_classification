@@ -35,7 +35,7 @@ def draw_digit():
     name = "digit.png"
     root = Tk()
     root.title("Paint Application")
-    size = 150
+    size = 200
     root.geometry(str(size)+"x"+str(size))
 
     wn=Canvas(root, width=size, height=size, bg='black')
